@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @mScuT
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Haskell
-- 💞️ I’m looking to collaborate on Biig companies
+- 👋 Hi, I’m Miguel
+- 👀 I’m looking to learn as much as possible about the coding world
+- 🌱 I’m currently taking a bachelor in software engineer
 
 <!---
 mScuT/mScuT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
